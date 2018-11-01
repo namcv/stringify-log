@@ -1,0 +1,16 @@
+{
+  "name": "stringify-log",
+  "version": "1.0.0",
+  "description": "stringify log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stringify",
+    "log",
+    "pretty-log"
+  ],
+  "author": "QuanT, NamCV",
+  "license": "ISC"
+}
